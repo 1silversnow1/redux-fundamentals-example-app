@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="975e9726-8ac0-4196-bf34-cda619219c69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/features/filters/colors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/filters/filtersSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/todos/TodoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/todos/TodoListItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/todos/times-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/todos/todosSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    <list default="true" id="975e9726-8ac0-4196-bf34-cda619219c69" name="Changes" comment="Added base application logic">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,8 +61,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685092638150</updated>
-      <workItem from="1685092644373" duration="2245000" />
+      <workItem from="1685092644373" duration="2638000" />
     </task>
+    <task id="LOCAL-00001" summary="Added base application logic">
+      <created>1685095005042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685095005042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added base application logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added base application logic" />
   </component>
 </project>
